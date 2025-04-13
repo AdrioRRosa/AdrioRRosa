@@ -38,7 +38,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Passion+One&weight=700&size=30&duration=2000&pause=200&color=288AB6&repeat=false&width=435&lines=Rede-Social)](https://git.io/typing-svg)
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href="www.linkedin.com/adrio-rosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="www.linkedin.com/in/adrio-rosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 #
 <div>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdrioRRosa/AdrioRRosa/output/github-contribution-grid-snake.svg">
